@@ -17,7 +17,7 @@ Step 3:
   all Search Filter classes can be found in SentinelSharp.SearchFilters  
 	
 Step 4:  
-  Use the SentinelSearch instance to call BuildQuerry.  
+  Use the SentinelSearch instance to call BuildQuerry  
   You pass it an array of BaseSearchFilter's and it returns a string with the search querry  
 	
 Step 5:  
